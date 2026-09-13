@@ -1,5 +1,5 @@
-#Leetcode 176 - Second highest salary
-#Find second highest salary from the Employee table
+Leetcode 176 - Second highest salary
+--Find second highest salary from the Employee table
 
 SELECT
 (
